@@ -7,7 +7,7 @@ public class Patient {
 	private String name;
 	private String ID;
 	private String address;
-	private int height;
+	 private int height;
 	private double weight;
 	private Date dob;
 	private Date IV;

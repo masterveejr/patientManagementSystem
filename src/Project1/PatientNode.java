@@ -4,7 +4,7 @@ public class PatientNode {
 	private Patient np;
 	private PatientNode link;
 	
-	public PatientNode(Patient np){
+	 public PatientNode(Patient np){
 		this.np = np;
 		link = null;
 	}

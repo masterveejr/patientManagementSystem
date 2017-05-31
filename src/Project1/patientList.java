@@ -9,7 +9,7 @@ public class patientList {
 	private List<Patient> patientList= new LinkedList<Patient>();
 	private PatientNode head;
 	private PatientNode tail;
-	private PatientNode location;
+	 private PatientNode location;
 	private patientList theList;
 	private int size;
 	private boolean found;
